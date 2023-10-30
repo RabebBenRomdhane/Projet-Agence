@@ -1,0 +1,31 @@
+@media(max-width:500px){
+  /* vp+header */
+header{
+  flex-direction: column;
+}
+header ul{
+  flex-direction: column;
+  text-align: center;
+}
+header ul li{
+  padding: 1.5rem;
+  margin-top: 1rem;
+  border-bottom: 1px dotted #ddd;
+}
+.title{
+  text-align: center;
+}
+.vp-content h1{
+  padding-top: 1rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+
+}
+
+
+
+
+
+
+
+}
